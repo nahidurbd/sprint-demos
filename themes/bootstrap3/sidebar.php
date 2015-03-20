@@ -1,0 +1,1 @@
+<?= $themer->call('posts:recent show=5') ?>
